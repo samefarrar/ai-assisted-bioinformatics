@@ -5,7 +5,7 @@ A template repository for AI-assisted Bioinformatics
 
 Project Organization
 ------------
-
+```
 ├── README.md          <- The top-level README for developers using this project.
 ├── config             <- Configuration options for the analysis.
 |   ├── config.yaml    <- Snakemake config file.
@@ -26,6 +26,4 @@ Project Organization
 │   ├── Snakefile      <- Contains the main entrypoint to the pipeline.
 ├── workspace          <- Space for intermediate results in the pipeline. By default excluded from the git repository.
 --------
-
-<p><small>Project inspired by the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a> and
-the <a target="_blank" href="https://snakemake.readthedocs.io/en/stable/snakefiles/deployment.html">Snakemake workflow template</a>. </small></p>
+```
